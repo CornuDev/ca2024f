@@ -1,4 +1,4 @@
-Website: [https:/cornudev.github.io/ca2024f](https:/cornudev.github.io/ca2024f)
+Website: [https://CornuDev.github.io/ca2024f](https://CornuDev.github.io/ca2024f)
 
 <img width="576" alt="background" src="https://github.com/user-attachments/assets/de1cba60-18e9-4070-8220-275ded625a13">
 
